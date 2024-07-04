@@ -33,3 +33,4 @@ so when you sell high you need not to think it.
 the updown may happen along time it may buy order need hapen with golden cross in 5 min time frame.
 three shadow kindle may with 0.618 is perfect sell order.
 the differnt trend with 1h and 4h may up down trend.
+1hour 20ma never use it
