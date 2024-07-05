@@ -34,3 +34,4 @@ the updown may happen along time it may buy order need hapen with golden cross i
 three shadow kindle may with 0.618 is perfect sell order.
 the differnt trend with 1h and 4h may up down trend.
 1hour 20ma never use it
+when stop lose 2 lot，pls stop operation。and check if you obey the rule you find
